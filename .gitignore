@@ -1,0 +1,11 @@
+.idea
+.settings
+out
+target/
+.DS_Store
+bin/
+.project
+*.iml
+*.launch
+maven-eclipse.xml
+*~
